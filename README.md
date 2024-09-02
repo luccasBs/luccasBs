@@ -22,5 +22,6 @@ Here are some ideas to get you started:
 
 **Um pouco sobre mim:**
 - _Eu sou o Luccas Barbosa da Silva, Técnico em Desenvolvimento de Sistemas, formado pela Etec Albert Einstei, atualmente estudando na faculdade Anhanguera._
-  _Sempre buscando expandir meus conhecimentos e ampliar minhas habilidades técnicas, eu desenvolvo projetos de sites e aplicativos em que eu possa treinar e aplicar algumas coisas que adquiri com o tempo._ 
+
+   _Sempre buscando expandir meus conhecimentos e ampliar minhas habilidades técnicas, eu desenvolvo projetos de sites e aplicativos em que eu possa treinar e aplicar algumas coisas que adquiri com o tempo._ 
 
